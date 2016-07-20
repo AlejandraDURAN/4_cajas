@@ -1,0 +1,27 @@
+
+
+div{
+	background-color:#2E64FE;
+	padding: 120px 60px 120px 60px;
+}
+
+p{
+	text-align: center;
+	border:dashed;
+	background-color: #58FAF4;
+	padding: 15px 5px 15px 5px;
+	font-family: Verdana;
+	text-decoration: underline;
+
+}
+
+#segunda{
+	padding:20px 10px 20px 10px;
+	background-color: #2E9AFE;
+}
+
+#tercera{
+	background-color: #2ECCFA;
+	padding: 40px 20px 70px 100px;
+}
+
